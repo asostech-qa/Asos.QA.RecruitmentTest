@@ -39,6 +39,6 @@ You can use any language, any framework you want! So long as it meets the requir
 
 Please also create a readme providing details on the framework chosen and why, how it can be set up etc. so that we can view the solution painlessly! :) Also so we can get an idea on how you think and why you chose certain toolsets/language etc! 
 
-P.S Bonus Points for completing the exercise in either C# or Javascript
+P.S Bonus Points for completing the exercise in either C# or Javascript!
 
 #
